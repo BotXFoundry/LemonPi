@@ -29,9 +29,9 @@ LemonPi做为机器人控制板&智能物联网主控板，集成了高性能处
      
 * [Hardware](/Hardware)
 
-     &emsp;&emsp;  [shematic_diagram](shematic_diagram)
+     &emsp;&emsp;  [Hardware/shematic_diagram](shematic_diagram)
      <br> 
-     &emsp;&emsp;  [pcb_laytout](pcb_laytout)
+     &emsp;&emsp;  [Hardware/pcb_laytout](pcb_laytout)
      <br>
 
 Firmware：提供使用STM32CubeMX开发工具开发的固件，代码中已经配置好管脚定义，用户可以直接开发业务代码，或者参考开源代码修改和完善。<br>
