@@ -36,12 +36,17 @@ LemonPi做为机器人控制板&智能物联网主控板，集成了高性能处
 
 Firmware：提供使用STM32CubeMX开发工具开发的固件，代码中已经配置好管脚定义，用户可以直接开发业务代码，或者参考开源代码修改和完善。<br>
 Hardware/shematic_diagram：LemonPi的原理图，用户可以根据原理图扩展开发，提供原理图的PDF版本和源文件版本。<br>
-Hardware/pcb_laytout：LemonPi PCB的TOP层与BOTTOM层位号图。
+Hardware/pcb_laytout：LemonPi电路板外观和PCB的TOP层与BOTTOM层位号图。
   
 ### 文件编码格式
 
 软件编码方式：软件采用UTF-8编码。<br>
 原理图设计源文件为PADS LOGIC 格式，使用PADS工具打开。原理图也提供了pdf格式，可以直接查看。
+
+## LemonPi购买
+
+可以访问官方taobao店铺，在taobao店铺中搜索：灵牛机器人，在店铺中搜索LemonPi即可找到产品。
+也可以致电0731-85311818，进行合作洽谈。
 
 ## 版权和许可
 
